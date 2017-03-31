@@ -3,41 +3,41 @@
 
 # Addon
 
-lightgallery_title = lightGallery
+photoswipe_title = photoswipe
 
 
 # Pages (LINKS)
 
-lightgallery_info = Info
-lightgallery_help = Hilfe
-lightgallery_help_template = Hilfe (Template-Beispiel)
-lightgallery_help_modul = Hilfe (Modul-Beispiel)
-lightgallery_changelog = Anpassungen
-lightgallery_license = Lizenz
+photoswipe_info = Info
+photoswipe_help = Hilfe
+photoswipe_help_template = Hilfe (Template-Beispiel)
+photoswipe_help_modul = Hilfe (Modul-Beispiel)
+photoswipe_changelog = Anpassungen
+photoswipe_license = Lizenz
 
-lightgallery_modul_install_description = lightGallery Modul - Update / Installation
-lightgallery_modul_update = lightGallery Modul - Update
-lightgallery_modul_install = lightGallery Modul - Installation
+photoswipe_modul_install_description = photoswipe Modul - Update / Installation
+photoswipe_modul_update = photoswipe Modul - Update
+photoswipe_modul_install = photoswipe Modul - Installation
 
-lightgallery_template_install_description = lightGallery Template - Update / Installation
-lightgallery_template_update = lightGallery Template - Update
-lightgallery_template_install = lightGallery Template - Installation
+photoswipe_template_install_description = photoswipe Template - Update / Installation
+photoswipe_template_update = photoswipe Template - Update
+photoswipe_template_install = photoswipe Template - Installation
 
-lightgallery_metainfo_install_description = lightGallery Metafelder - Update / Installation
-lightgallery_metainfo_update = lightGallery Metafelder - Update
-lightgallery_metainfo_install = lightGallery Metafelder - Installation
+photoswipe_metainfo_install_description = photoswipe Metafelder - Update / Installation
+photoswipe_metainfo_update = photoswipe Metafelder - Update
+photoswipe_metainfo_install = photoswipe Metafelder - Installation
 
 
 # Page:CONFIG (CONTENT)
 
-lightgallery_config = Einstellungen
-lightgallery_config_url = URL
-lightgallery_config_ids = IDs
-lightgallery_config_save = Einstellungen speichern
-lightgallery_config_saved = Einstellungen wurden gespeichert!
+photoswipe_config = Einstellungen
+photoswipe_config_url = URL
+photoswipe_config_ids = IDs
+photoswipe_config_save = Einstellungen speichern
+photoswipe_config_saved = Einstellungen wurden gespeichert!
 
 
 # Benennung für die Addonrechte, sichtbar innerhalb der REDAXO-Administration unter Benutzer > Rollen > Allgemein
 
-perm_general_lightgallery[] = Rechte für LightGallery-Addon
-perm_general_lightgallery[config] = Rechte für LightGallery-Addon-Konfiguration
+perm_general_photoswipe[] = Rechte für photoswipe-Addon
+perm_general_photoswipe[config] = Rechte für photoswipe-Addon-Konfiguration
