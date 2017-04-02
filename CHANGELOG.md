@@ -1,3 +1,7 @@
+**02.04.2017 Version 0.4.4**
+
+- Zusätzliche Metafelder aus der Installationsroutine entfernt
+
 **31.03.2017 Version 0.4.3**
 
 - sprachdateien ergänzt
